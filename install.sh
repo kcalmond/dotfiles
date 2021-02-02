@@ -2,7 +2,7 @@
 
 echo "Hello install.sh"
 
-echo "Clonling home dotfiles..."
+echo "Cloning home dotfiles..."
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 # Install HOME-based bash files
